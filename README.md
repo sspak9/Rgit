@@ -13,7 +13,7 @@ README.md
 
 I can either start saving R stuff here or I can create a new folder somewhere and at least copy the .git folder and/or other to that folder.  In my case I created a new folder `rprj` where I copied the above
 
-Then, I create a new R project and use "existing directory" to point to my `rprj` and create a new R project file called `First.R` with the following content:
+Then, I create a new R project and use "existing directory" to point to my `rprj` and create a new R file called `First.R` with the following content:
 
 ```R
 library(nycflights13)
