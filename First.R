@@ -6,4 +6,4 @@ alaska_flights <- flights %>%
   filter(carrier == "AS")
 
 ggplot(data = alaska_flights, mapping = aes(x = dep_delay, y = arr_delay)) + 
-  geom_point()
+  geom_point(alpha = 0.2)
