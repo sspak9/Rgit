@@ -52,3 +52,7 @@ After you work on few updates, verify if you wish to "save" the changes
 If all good, you would check in or discard the changes if you do not wish to check in, you can discard the changes
 
 ![discard](images/discard.jpg)
+
+And this is how the github dashboard looks
+
+![2nd](images/2nd.jpg)
